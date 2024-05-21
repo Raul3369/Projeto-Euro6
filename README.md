@@ -15,7 +15,6 @@
 
     1. Py3270
     2. Pandas
-    3. Time
     
 - Observações: 
 
